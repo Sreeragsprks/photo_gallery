@@ -1,0 +1,18 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container input {
+  border-radius: 5px;
+  /* width: 5rem; */
+}
+
+.login-container button {
+  margin-left: 10px;
+  color: white;
+  background: black;
+  border-radius: 5px;
+  width: 5rem;
+}
